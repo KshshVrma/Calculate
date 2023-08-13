@@ -1,0 +1,13 @@
+* {
+  font-family: sans-serif;
+  text-align: center;
+  justify-content: center;
+  background-color: aqua;
+}
+:hover {
+  background-color: firebrick;
+  transition: 1000ms;
+}
+:hover button {
+  background-color: gold;
+}
